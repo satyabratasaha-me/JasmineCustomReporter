@@ -1,0 +1,4 @@
+exports.skipKdbTest = function() {
+    pending();
+}
+
